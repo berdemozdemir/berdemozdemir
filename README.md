@@ -6,7 +6,7 @@ Junior Frontend Developer
 
 * 🌍  I'm based in Turkey,Ankara
 * ✉️  You can contact me at [berdemozdemir@gmail.com](mailto:berdemozdemir@gmail.com)
-* 🧠  I'm learning React , Next.JS
+* 🧠  I'm learning Tailwindcss , React , Next.JS
 
 ### Skills
 

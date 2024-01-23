@@ -1,12 +1,12 @@
 Hi 👋 My name is Erdem Özdemir
 ================================
 
-Junior Frontend Developer
+Frontend Developer
 -------------------------
 
-* 🌍  I'm based in Turkey,Ankara
-* ✉️  You can contact me at [berdemozdemir@gmail.com](mailto:berdemozdemir@gmail.com)
-* 🧠  I'm learning Tailwindcss , React , Next.JS , TypeScript
+* 🌍 I'm based in Turkey,Ankara
+* ✉️ You can contact me at [berdemozdemir@gmail.com](mailto:berdemozdemir@gmail.com)
+* 🧠 Tailwindcss , React , Next.JS , TypeScript
 
 ### Skills
 
